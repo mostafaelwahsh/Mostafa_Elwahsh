@@ -2,13 +2,13 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Name>Mostafa</Name>
-		<Assembly>Task_1.dll</Assembly>
+		<Assembly>Task_2.dll</Assembly>
 		<AddInId>
-			0F15EAEB-F35D-4FE3-8745-A992181B89C7
+			64F50798-6E17-4742-BC21-E936C903D33D
 		</AddInId>
-		<FullClassName>Task_1.Application.CreateFloor</FullClassName>
-		<Text>Floor Creator</Text>
-		<Description>Create Floor</Description>
+		<FullClassName>Task_2.Application.Command</FullClassName>
+		<Text>Bathroom</Text>
+		<Description>Edit Bathroom</Description>
 		<VendorId>Mostafa Elwahsh</VendorId>
 		<VendorDescription>AEC Software Engineer</VendorDescription>
 		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
